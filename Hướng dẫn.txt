@@ -1,0 +1,13 @@
+﻿Tạo csdl mysql `trai_cay` và import file `trai_cay.sql`
+
+Mở terminal tại thư mục asm-nodejs
+Chạy `npm install` lần đầu để cài đặt package cần thiết
+Chạy `npm start` để chạy web.
+
+Truy cập web localhost:3000
+Tài khoản khách hàng: kh1
+Mật khẩu: 123
+
+Đường dẫn admin: localhost:3000/admin
+Tài khoản admin: admin
+Mật khẩu: 1
